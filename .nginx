@@ -1,0 +1,3 @@
+location info.json {
+    deny all;
+}
