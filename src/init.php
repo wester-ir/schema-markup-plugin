@@ -43,11 +43,9 @@ if (request()->routeIs('client.product.index')) {
                     })
                 ]);
 
-                $html = '
+                return '
 <script type="application/ld+json">'.$productSchema.'</script>
 <script type="application/ld+json">'.$breadcrumbSchema.'</script>';
-
-                return $html;
             }
         }
     );
