@@ -1,8 +1,8 @@
 {
-    "name": "schema",
+    "name": "schema-markup",
     "display_name": {
-        "en": "Schema",
-        "fa": "اسکیما"
+        "en": "Schema Markup",
+        "fa": "نشانه گذاری اسکیما"
     },
     "description": {
         "en": "Add structured data using schema.org markup to improve search engine visibility and SEO.",
@@ -16,5 +16,5 @@
     ],
     "logo": "logo.png",
     "version": "1.0.2",
-    "github": "https://github.com/weska-ir/schema-plugin"
+    "github": "https://github.com/weska-ir/schema-markup-plugin"
 }
