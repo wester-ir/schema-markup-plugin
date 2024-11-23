@@ -15,6 +15,6 @@
         }
     ],
     "logo": "logo.png",
-    "version": "1.0.1",
-    "github": "https://github.com/weska-ir/schema"
+    "version": "1.0.2",
+    "github": "https://github.com/weska-ir/schema-plugin"
 }
