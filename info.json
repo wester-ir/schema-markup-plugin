@@ -10,11 +10,11 @@
     },
     "authors": [
         {
-            "name": "Weska.ir",
-            "url": "https://weska.ir"
+            "name": "Wester.ir",
+            "url": "https://wester.ir"
         }
     ],
     "logo": "logo.png",
     "version": "1.0.2",
-    "github": "https://github.com/weska-ir/schema-markup-plugin"
+    "github": "https://github.com/wester-ir/schema-markup-plugin"
 }
