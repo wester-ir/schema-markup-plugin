@@ -7,8 +7,8 @@ if (! defined('LARAVEL_START')) {
 use App\Services\SchemaService;
 
 if (request()->routeIs('client.product.index')) {
-    pluginRepository()->addAction(
-        hookName: 'head',
+    register_plugin_action(
+        hook: 'head',
         callback: function () {
             $product = \View::getShared()['product'] ?? null;
 
